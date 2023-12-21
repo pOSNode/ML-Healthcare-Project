@@ -1,4 +1,4 @@
-# My Diabetes Prediction Model
+# My ML Healthcare Projects
 
 You can view the Jupyter Notebook's Here.
 
